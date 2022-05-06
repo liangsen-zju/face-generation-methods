@@ -114,4 +114,4 @@
 
 
 ---
-Borrow and Thanks for these repos [[awesome-face-generation](https://github.com/zhangzjn/awesome-face-generation)]
+Borrow and Thanks for these repos [[awesome-face-generation](https://github.com/zhangzjn/awesome-face-generation)],[[Human Video Generation](https://github.com/yule-li/Human-Video-Generation)]
