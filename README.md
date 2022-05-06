@@ -91,9 +91,10 @@ Rendering [[home](https://renyurui.github.io/PIRender_web/)] [[video](https://ww
 
 #### 2019 
 - [NIPS'19] [[**FOMM**](https://proceedings.neurips.cc/paper/2019/file/31c0b36aef265d9221af80872ceb62f9-Paper.pdf)] First Order Motion Model for Image Animation  [[web](https://aliaksandrsiarohin.github.io/first-order-model-website/)] [[pytorch](https://github.com/AliaksandrSiarohin/first-order-model)]
+- [BMVC'19] [[**OSFR**](https://arxiv.org/pdf/1908.03251.pdf)] One-shot Face Reenactment  [[home](https://wywu.github.io/projects/ReenactGAN/OneShotReenact.html)] [[pytorch](https://github.com/bj80heyue/One_Shot_Face_Reenactment)]
+
 
 #### 2018
-- [ECCV'18] [[**OSFR**](https://arxiv.org/pdf/1908.03251.pdf)] One-shot Face Reenactment  [[pytorch](https://github.com/bj80heyue/One_Shot_Face_Reenactment)]
 - [ECCV'18] [[**X2Face**](https://openaccess.thecvf.com/content_ECCV_2018/papers/Olivia_Wiles_X2Face_A_network_ECCV_2018_paper.pdf)] X2Face: A network for controlling face generation by using images, audio, and pose codes  [[pytorch](https://github.com/oawiles/X2Face)]
 - [ECCV'18] [[**ReenactGAN**](https://openaccess.thecvf.com/content_ECCV_2018/papers/Wayne_Wu_Learning_to_Reenact_ECCV_2018_paper.pdf)] ReenactGAN: Learning to Reenact Faces via Boundary Transfer  [[pytorch](https://github.com/wywu/ReenactGAN)]
 
