@@ -64,7 +64,6 @@
 #### 2018
 - [arXiv'18] [[**RSGAN**](https://arxiv.org/pdf/1804.03447.pdf)] RSGAN: Face Swapping and Editing using Face and Hair Representation in Latent Spaces 
 - [CVPR'18] [[**OIPFS**](https://openaccess.thecvf.com/content_cvpr_2018/papers/Bao_Towards_Open-Set_Identity_CVPR_2018_paper.pdf)] Towards Open-Set Identity Preserving Face Synthesis 
-- [arXiv'18] [[**RSGAN**](https://arxiv.org/pdf/1804.03447.pdf)] RSGAN: Face Swapping and Editing using Face and Hair Representation in Latent Spaces 
 - [CVPR'18] [[**IPNet**](https://openaccess.thecvf.com/content_cvpr_2018/papers/Bao_Towards_Open-Set_Identity_CVPR_2018_paper.pdf)] Towards Open-Set Identity Preserving Face Synthesis 
 - [ACCV'18] [[**FSNet**](https://arxiv.org/pdf/1811.12666.pdf)] FSNet: An Identity-Aware Generative Model for Image-based Face Swapping  [[web](https://tatsy.github.io/projects/fsnet/)]
 
@@ -72,16 +71,20 @@
 ---
 ### Face Reenactment
 #### 2022
+- [arXiv'22] [[**StyleHEAT**](https://arxiv.org/pdf/2203.04036.pdf)] StyleHEAT: One-Shot High-Resolution Editable Talking Face
+Generation via Pre-trained StyleGAN [[home](https://feiiyin.github.io/StyleHEAT/)] [[code](https://github.com/FeiiYin/StyleHEAT/)]
+
 
 #### 2021
 - [CVPR'21] [[**face-vid2vid**](https://nvlabs.github.io/face-vid2vid/main.pdf)] One-Shot Free-View Neural Talking-Head Synthesis for Video Conferencing  [[web](https://nvlabs.github.io/face-vid2vid/)]
-
+- [ICCV'21] [[**HeadGAN**](https://arxiv.org/pdf/2012.08261.pdf)] HeadGAN: One-shot Neural Head Synthesis and Editing [[home](https://michaildoukas.github.io/HeadGAN/)] [[video](https://www.youtube.com/watch?v=Xo9IW3cMGTg)]
+- [ICCV'21] [[**PIRenderer**](https://openaccess.thecvf.com/content/ICCV2021/papers/Ren_PIRenderer_Controllable_Portrait_Image_Generation_via_Semantic_Neural_Rendering_ICCV_2021_paper.pdf)] PIRenderer: Controllable Portrait Image Generation via Semantic Neural
+Rendering [[home](https://renyurui.github.io/PIRender_web/)] [[video](https://www.youtube.com/watch?v=gDhcRcPI1JU)] [[pytorch](https://github.com/RenYurui/PIRender)]
 
 #### 2020
 - [CVPR'20] [[**FReeNet**](https://openaccess.thecvf.com/content_CVPR_2020/papers/Zhang_FReeNet_Multi-Identity_Face_Reenactment_CVPR_2020_paper.pdf)] FReeNet: Multi-Identity Face Reenactment  [[pytorch](https://github.com/zhangzjn/FReeNet)]
 - [ICASSP'20] [[**APB2Face**](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9052977&tag=1)] APB2Face: Audio-guided face reenactment with auxiliary pose and blink signals  [[pytorch](https://github.com/zhangzjn/APB2Face)]
 - [ECCV'20] [[**Bi-layer**](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123570511.pdf)] Fast Bi-layer Neural Synthesis of One-Shot Realistic Head Avatars  [[pytorch](https://github.com/saic-violet/bilayer-model)]
-- [arXiv'20] [[**HeadGAN**](https://arxiv.org/pdf/2012.08261.pdf)] HeadGAN: One-shot Neural Head Synthesis and Editing
 - [arXiv'20] [[**FaR-GAN**](https://arxiv.org/pdf/2005.06402.pdf)] FaR-GAN for One-Shot Face Reenactment 
 - [AAAI'20] [[**DAE-GAN**](https://ojs.aaai.org/index.php/AAAI/article/view/6970/6824)] Realistic Face Reenactment via Self-Supervised Disentangling of Identity and Pose 
 
