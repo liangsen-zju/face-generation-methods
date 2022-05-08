@@ -75,6 +75,8 @@
 - [arXiv'22] [[**StyleHEAT**](https://arxiv.org/pdf/2203.04036.pdf)] StyleHEAT: One-Shot High-Resolution Editable Talking Face
 Generation via Pre-trained StyleGAN [[home](https://feiiyin.github.io/StyleHEAT/)] [[code](https://github.com/FeiiYin/StyleHEAT/)]
 - [ICLR'22] [[**LIA**](https://openreview.net/pdf?id=7r6kDq0mK_)]Latent Image Animator: Learning to Animate Images via Latent Space Navigation [[home](https://wyhsirius.github.io/LIA-project/)] 
+- [CVPR'22] [[**DuGAN**](https://arxiv.org/pdf/2203.06605.pdf)] Depth-Aware Generative Adversarial Network
+for Talking Head Video Generation [[home](https://arxiv.org/pdf/2203.06605.pdf)] [[pytorch](https://github.com/harlanhong/CVPR2022-DaGAN)]
 
 
 #### 2021
