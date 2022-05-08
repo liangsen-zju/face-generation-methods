@@ -44,6 +44,7 @@
 ---
 ### Face Swap
 #### 2022 
+- [PAMI'22][[**FSGANv2**](https://arxiv.org/pdf/2202.12972.pdf)] FSGANv2: Improved Subject Agnostic Face Swapping and Reenactment 
 
 #### 2021
 - [IJCAI'21] [[**HifiFace**](https://arxiv.org/pdf/2106.09965.pdf)] HifiFace: 3D Shape and Semantic Prior Guided High Fidelity Face Swapping  [[home](https://johann.wang/HifiFace/)] [[unofficial pytorch](https://github.com/mindslab-ai/hififace)]
@@ -77,6 +78,7 @@ Generation via Pre-trained StyleGAN [[home](https://feiiyin.github.io/StyleHEAT/
 
 
 #### 2021
+- [3DV'21] [[**SAFA**](https://arxiv.org/pdf/2111.04928.pdf)] SAFA: Structure Aware Face Animation [[pytorch](https://arxiv.org/pdf/2111.04928.pdf)]
 - [CVPR'21] [[**face-vid2vid**](https://nvlabs.github.io/face-vid2vid/main.pdf)] One-Shot Free-View Neural Talking-Head Synthesis for Video Conferencing  [[web](https://nvlabs.github.io/face-vid2vid/)]
 - [ICCV'21] [[**HeadGAN**](https://arxiv.org/pdf/2012.08261.pdf)] HeadGAN: One-shot Neural Head Synthesis and Editing [[home](https://michaildoukas.github.io/HeadGAN/)] [[video](https://www.youtube.com/watch?v=Xo9IW3cMGTg)]
 - [ICCV'21] [[**PIRenderer**](https://openaccess.thecvf.com/content/ICCV2021/papers/Ren_PIRenderer_Controllable_Portrait_Image_Generation_via_Semantic_Neural_Rendering_ICCV_2021_paper.pdf)] PIRenderer: Controllable Portrait Image Generation via Semantic Neural
