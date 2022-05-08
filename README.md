@@ -124,4 +124,4 @@ Rendering [[home](https://renyurui.github.io/PIRender_web/)] [[video](https://ww
 
 
 ---
-Borrow and Thanks for these repos [[awesome-face-generation](https://github.com/zhangzjn/awesome-face-generation)],[[Human Video Generation](https://github.com/yule-li/Human-Video-Generation)]
+Borrow and Thanks for these repos [awesome-face-generation](https://github.com/zhangzjn/awesome-face-generation), [Human Video Generation](https://github.com/yule-li/Human-Video-Generation), [awesome-faceReenactment](https://github.com/DaddyJin/awesome-faceReenactment)
